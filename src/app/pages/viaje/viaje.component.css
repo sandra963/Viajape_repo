@@ -1,0 +1,23 @@
+.container{
+    margin-bottom: 20;
+}
+.promociones-item{
+    margin-bottom: 10px;
+    height: auto;
+    cursor: pointer;
+}
+
+h3,p:hover{
+    color: red;
+
+}
+
+.carousel-item{
+    height: 500px;
+  }
+
+ h2{
+font-family: Times, 'Times New Roman', serif;
+  font-size: 50px;
+  font-weight: bold;
+  }

@@ -14,7 +14,7 @@ h1{
     color: white;
 
 }
-#buscar{
+.buscar{
     text-align: right;
     background-color: rgb(226, 43, 43);
     width: 100px;

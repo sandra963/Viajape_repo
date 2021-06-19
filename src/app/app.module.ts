@@ -9,6 +9,9 @@ import { ViajeComponent } from './pages/viaje/viaje.component';
 import { AboutComponent } from './pages/about/about.component';
 import { AlojamientoComponent } from './pages/alojamiento/alojamiento.component';
 import { PaqueteturisticoComponent } from './pages/paqueteturistico/paqueteturistico.component';
+import { PagoenlineaComponent } from './pages/pagoenlinea/pagoenlinea.component';
+import { GestionreservaComponent } from './pages/gestionreserva/gestionreserva.component';
+import { LoginComponent } from './pages/login/login.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +21,10 @@ import { PaqueteturisticoComponent } from './pages/paqueteturistico/paqueteturis
     ViajeComponent,
     AboutComponent,
     AlojamientoComponent,
-    PaqueteturisticoComponent
+    PaqueteturisticoComponent,
+    PagoenlineaComponent,
+    GestionreservaComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,

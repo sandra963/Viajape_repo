@@ -1,0 +1,28 @@
+header{
+    background: #D71E4B;
+    position: fixed;
+    width: 100%;
+}
+
+/* footer */
+
+footer {
+    padding-top: 5px;
+    color:white ;
+    background: #D71E4B;
+    margin-bottom:0%;
+    text-align: center;
+    
+ }
+ footer .deinteres{
+  width: auto;
+  text-align: center;
+
+ }
+ footer .redes{
+width:auto;
+text-align: center;
+ }
+ footer .redes i{
+   padding: 10px;
+ }

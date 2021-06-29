@@ -10,7 +10,7 @@ import { GestionreservaComponent } from "./pages/gestionreserva/gestionreserva.c
 import { LoginComponent } from "./pages/login/login.component";
 
 const app_routes: Routes=[
-  { path: '', component: ViajeComponent},
+  { path: 'viaja', component: ViajeComponent},
   {path:'about',component:AboutComponent},
   {path:'alojamiento', component:AlojamientoComponent},
   {path: 'paqueteturistico',component:PaqueteturisticoComponent},
